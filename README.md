@@ -2,8 +2,6 @@ Hi 👋, I'm Jennay94
 Data Analyst & LiveOps Manager | CS Engineering Student | IoT Exchange Student at Savonia UAS
 https://github.com/Morgana-01
 
-https://github.com/Morgana-01
-
 🔭 I'm currently working on Data-driven LiveOps strategies at MyTown Games Ltd. and integrating IoT solutions with ESP32
 
 🌱 I'm currently learning Machine Learning (Savonia Onramp), AWS Cloud services, and advanced IoT systems
