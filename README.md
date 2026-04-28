@@ -53,6 +53,5 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** [Morgana-01](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
-- 📧 **Email:** [molnar.jennifer994@gmail.com](mailto:molnar.jennifer994@gmail.com)
 
 ---
