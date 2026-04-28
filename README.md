@@ -1,4 +1,4 @@
-# Hi there, I'm Jennifer! 👋
+# Hi there, I'm Morgana-01! 👋
 
 ### **Data Analyst & LiveOps Manager | CS Engineering Student | IoT Exchange Student @ Savonia UAS**
 
@@ -52,7 +52,7 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [Jennifer Molnár](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
+- 💼 **LinkedIn:** [Morgana-01](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
 - 📧 **Email:** [molnar.jennifer994@gmail.com](mailto:molnar.jennifer994@gmail.com)
 
 ---
